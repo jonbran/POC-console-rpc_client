@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NYc03cRXAf17HWNFCtKbsGe1Mc82OaZKDMl/Pf6S5my2Ob8mWuN4zposOqVOV39/f5tW7udBvAGIhbdw0z210w==",
+  "success": true,
+  "projectFilePath": "D:\\code\\C#\\Russell\\QueueService\\console\\console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\jon\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\jon\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\jon\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
